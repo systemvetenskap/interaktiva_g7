@@ -18,3 +18,23 @@ C:\Micke\Olika Saker\Google Drive\MIUN\4.2015HT\Interaktiva webbapplikationer IK
 C:\Micke\Olika Saker\Google Drive\MIUN\4.2015HT\Interaktiva webbapplikationer IK073G\4. Projektuppgift\Projektuppgift\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
 C:\Micke\Olika Saker\Google Drive\MIUN\4.2015HT\Interaktiva webbapplikationer IK073G\4. Projektuppgift\Projektuppgift\WebApplication1\obj\Debug\WebApplication1.dll
 C:\Micke\Olika Saker\Google Drive\MIUN\4.2015HT\Interaktiva webbapplikationer IK073G\4. Projektuppgift\Projektuppgift\WebApplication1\obj\Debug\WebApplication1.pdb
+C:\Users\Matija\Source\Repos\interaktiva_g7\WebApplication1\bin\roslyn\csc.exe
+C:\Users\Matija\Source\Repos\interaktiva_g7\WebApplication1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Matija\Source\Repos\interaktiva_g7\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Matija\Source\Repos\interaktiva_g7\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Matija\Source\Repos\interaktiva_g7\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Matija\Source\Repos\interaktiva_g7\WebApplication1\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Matija\Source\Repos\interaktiva_g7\WebApplication1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Matija\Source\Repos\interaktiva_g7\WebApplication1\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Matija\Source\Repos\interaktiva_g7\WebApplication1\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Matija\Source\Repos\interaktiva_g7\WebApplication1\bin\roslyn\vbc.exe
+C:\Users\Matija\Source\Repos\interaktiva_g7\WebApplication1\bin\roslyn\VBCSCompiler.exe
+C:\Users\Matija\Source\Repos\interaktiva_g7\WebApplication1\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Matija\Source\Repos\interaktiva_g7\WebApplication1\bin\WebApplication1.dll.config
+C:\Users\Matija\Source\Repos\interaktiva_g7\WebApplication1\bin\WebApplication1.dll
+C:\Users\Matija\Source\Repos\interaktiva_g7\WebApplication1\bin\WebApplication1.pdb
+C:\Users\Matija\Source\Repos\interaktiva_g7\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Matija\Source\Repos\interaktiva_g7\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Matija\Source\Repos\interaktiva_g7\WebApplication1\obj\Debug\WebApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Matija\Source\Repos\interaktiva_g7\WebApplication1\obj\Debug\WebApplication1.dll
+C:\Users\Matija\Source\Repos\interaktiva_g7\WebApplication1\obj\Debug\WebApplication1.pdb
