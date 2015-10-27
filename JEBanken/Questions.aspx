@@ -19,7 +19,7 @@
 
     </div>
         <br />
-        <asp:Button ID="Button1" runat="server" Text="Nästa" />
+        <asp:Button ID="Button1" runat="server" Text="Nästa" OnClick="Button1_Click" />
     </form>
 </body>
 </html>
