@@ -17,15 +17,17 @@ namespace WebApplication1
 
 
           
-            XmlNodeList nodeList = xmldoc.SelectNodes("/categories/ethicandrules/question[@id='1']/answer");
+            XmlNodeList nodeListAnswer = xmldoc.SelectNodes("/categories/ethicandrules/question[@id='2']/answer/answer");
+            XmlNodeList nodeListCorrectAnswer = xmldoc.SelectNodes("/categories/ethicandrules/question[@id='1']/correctanswer");
 
             lblQuestion.Text = xmldoc.SelectSingleNode("/categories/ethicandrules/question[@id='1']").FirstChild.InnerText;
 
-            RadioButton1.Text = nodeList.ToString();
-            //RadioButton2.Text = nodeList[1].FirstChild.InnerText;
-            //RadioButton3.Text = nodeList[2].InnerTex
-            //RadioButton4.Text = nodeList[3].FirstChild.InnerText;
-            //RadioButton5.Text = nodeList[4].FirstChild.InnerText;
+            RadioButton1.Text = nodeListAnswer[0].FirstChild.InnerText;
+             //RadioButton1.Text = xmldoc.SelectSingleNode("/categories/ethicandrules/question/answer/answer[@id='1']").FirstChild.InnerText;
+            RadioButton2.Text = nodeListAnswer[1].FirstChild.InnerText;
+            RadioButton3.Text = nodeListAnswer[2].InnerText;
+            RadioButton4.Text = nodeListAnswer[3].FirstChild.InnerText;
+            RadioButton5.Text = nodeListCorrectAnswer[0].FirstChild.InnerText;
 
 
         }
